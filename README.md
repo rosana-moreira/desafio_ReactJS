@@ -1,10 +1,32 @@
 # Desafio-reactJS
-To copy this project to your machine, you need to:
 
-Install Git Clone the repository running the command: Git clonehttps://github.com/rosana-moreira/Desafio-reactJS Install the dependencies using NPM or Yarn, at your project folder, run the command: npm install or
+ <p align="center">Descrição do Projeto</p>
+<p align="center">Aplicação feita em React que consome a api disponibilizada pelo github.</p>
 
-yarn install
+<h1 align="center">
+  <img alt="logo" title="#logo" src="./assets/logo.png" />
+</h1>
+### Pré-requisitos
 
-execute
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-yarn start
+### 🎲 Rodando o Front End
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/rosana-moreira/Desafio-reactJS>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Desafio-reactJS
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+
