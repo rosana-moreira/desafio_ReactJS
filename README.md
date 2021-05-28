@@ -1,7 +1,7 @@
 # Desafio-reactJS
 
  <p align="center">Descrição do Projeto</p>
-<p align="center">Aplicação feita em React que consome a api disponibilizada pelo github.</p>
+<p align="center">Api desenvolvida em ReactJs onde consome o backend "Desafio_Nodejs" com as funcionalidade de listar, alterar criar e remover os repositórios.</p>
 
 
 # Pré-requisitos
